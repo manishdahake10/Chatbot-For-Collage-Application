@@ -22,7 +22,8 @@ This is a Chatbot for a College Application system built using PHP, JSON, HTML, 
 ## Requirements
 - A server with PHP support (e.g., Apache or Nginx).
 - MySQL or MariaDB for database management.
-- A modern web browser (e.g., Chrome, Firefox).
+- A modern web browser (e.g., Chrome, Firefox,Mozilla, Google Chrome, IE8, OPERA).
+- Software (XAMPP / Wamp / Mamp/ Lamp )
   
 ## Installation
 
@@ -59,11 +60,28 @@ Once the system is running, you can access the chatbot interface through your br
 
 ### Output Screenshots
 
-**Chatbot Interface**:<br>
-![Chatbot Interface](https://github.com/manishdahake10/ChatbotForCollegeApplication/assets/chatbot_interface.png)<br><br>
+**Chatbot Interface**
+![Home](https://github.com/user-attachments/assets/731053c6-f40d-41ab-abf1-b6fc1b418b78)
 
-**Example Query Interaction**:<br>
-![Chatbot Query](https://github.com/manishdahake10/ChatbotForCollegeApplication/assets/query_example.png)<br><br>
+**Admin Dashboard**
+![AdminDashboard](https://github.com/user-attachments/assets/76b10e4e-80fb-41d1-bdc5-06c641026087)
+
+**Response**
+![Response](https://github.com/user-attachments/assets/47fb641e-480f-4638-821f-14821ebe0875)
+
+**Create Response**
+![Create Response](https://github.com/user-attachments/assets/a138bde5-0ec7-4d12-a9d5-04df64c43837)
+
+**Edit Response**
+![Edit Respons](https://github.com/user-attachments/assets/7dc9b254-b321-4e0d-8d76-61f5f0ba965c)
+
+
+**Setting**
+![Setting1](https://github.com/user-attachments/assets/55f6efa6-4ad3-4136-9360-eda613b961c1)
+![Setting2](https://github.com/user-attachments/assets/193887b1-26fd-4c18-93a1-28cd7f71cf48)
+
+**Unreserve**
+![Unanswered](https://github.com/user-attachments/assets/41ce7bda-1cc4-4a79-8803-00d48c969b01)
 
 ## Code Structure
 The project consists of the following structure:
