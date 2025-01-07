@@ -96,9 +96,12 @@ The project consists of the following structure:
 ## Contribution
 Feel free to fork this repository and contribute by opening issues or pull requests. Suggestions for additional features, improvements, or bug fixes are always welcome!
 
-## Author
-**Your Name**  
+## Author 
 GitHub: [manishdahake10](https://github.com/manishdahake10)
+
+## Collaborater 
+GitHub: [ankitajha0701] (https://github.com/ankitajha0701)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
